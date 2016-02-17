@@ -1,3 +1,4 @@
+trying to create merge confict, writing this when in master branch.
 more blah blah
 blah
 will run command git diff HEAD
